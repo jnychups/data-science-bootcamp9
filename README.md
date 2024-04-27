@@ -2,7 +2,7 @@
 
 I'm learning data science bootcamp. There are 10 sprints im program.
 
-## First part of program
+## First part of the program
 - Tntro to data science
 - Spreadsheets
 - SQL daatbase
